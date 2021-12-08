@@ -4,9 +4,6 @@ import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function Gallery({ currentCategory }) {
 
-
-
-
   const { name, description } = currentCategory;
 
 
